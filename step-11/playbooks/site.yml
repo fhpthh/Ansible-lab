@@ -1,0 +1,10 @@
+---
+- hosts: web
+  collections:
+    - community.docker
+  roles:
+    - web
+
+- hosts: haproxy
+  roles:
+    - haproxy

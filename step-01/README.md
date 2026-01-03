@@ -1,4 +1,4 @@
-# Lab2: Install Ansible
+# Install Ansible
 
 ## Installing Ansible on Fedora Linux
 
